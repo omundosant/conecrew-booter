@@ -17,8 +17,8 @@ _Não adianta tentar kibar :), liberamos para estudos_
 ```
 ### Login Painel
 <img src="https://image.prntscr.com/image/7OuPfIJ_TKOF4i7zTnuQcw.png">
-##### AntiBurlamento, não tente.
 
+##### AntiBurlamento, não tente.
 ##### Para logar com sucesso adquira conta comigo!
 
 
