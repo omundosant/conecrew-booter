@@ -6,13 +6,13 @@ _Não adianta tentar kibar :), liberamos para estudos_
 ### Funções
 
 ```
-1. Botnet(DDoS)
+1. Botnet
 
-2. GeoIP(Location)
+2. GeoIP
 
-3. Scan Trafic(Scanner)
+3. Scan Trafic
 
-4. Chat(Members)
+4. Chat
 
 ```
 
