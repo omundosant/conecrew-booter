@@ -21,4 +21,11 @@ _Não adianta tentar kibar :), liberamos para estudos_
 ##### AntiBurlamento, não tente.
 ##### Para logar com sucesso adquira conta comigo!
 
+### Botnet
+<img src="https://image.prntscr.com/image/5L04c4-ARwW2ZXfcjJJoew.png">
 
+##### Como eu disse: Botnet persistente em 32 payloads, cada um tem uma TLL de 10gb.
+
+### Copyright
+
+###### ConeCrew Team: shin0bi - JessicaScript - M4v3r1ck - xina - d3z3n0v3 - Sant - $upreme - Murilo pwonz.
